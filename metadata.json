@@ -1,0 +1,6 @@
+{
+  "name": "Kim Ánh - Chúc Mừng Sinh Nhật 17",
+  "description": "Video motion chúc mừng sinh nhật tuổi 17 cho Kim Ánh (K.Á) với concept cá Koi bơi lội nghệ thuật và chế độ cá nhân hoá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
