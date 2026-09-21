@@ -13,9 +13,9 @@ export default function App() {
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved) {
         const parsed = JSON.parse(saved);
-        // Ensure 7 gifts and lanVyLetter exist
-        if (!parsed.gifts || parsed.gifts.length < 7) {
-          parsed.gifts = DEFAULT_CONFIG.gifts;
+        // If it's old placeholder data, discard and use DEFAULT_CONFIG
+        if (!parsed.gifts || parsed.gifts.length < 7 || parsed.gifts[0]?.senderName === 'Người bạn 1') {
+          return DEFAULT_CONFIG;
         }
         if (!parsed.lanVyLetter) {
           parsed.lanVyLetter = DEFAULT_CONFIG.lanVyLetter;

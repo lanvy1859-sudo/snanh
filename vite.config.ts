@@ -21,6 +21,23 @@ export default defineConfig(() => {
               req.on('end', () => {
                 try {
                   const data = JSON.parse(body);
+                  const giftsDir = path.resolve(__dirname, 'public/gifts');
+                  if (!fs.existsSync(giftsDir)) {
+                    fs.mkdirSync(giftsDir, { recursive: true });
+                  }
+                  if (data.gifts && Array.isArray(data.gifts)) {
+                    data.gifts.forEach((g: any, idx: number) => {
+                      if (g.imageUrl && g.imageUrl.startsWith('data:image/')) {
+                        const matches = g.imageUrl.match(/^data:image\/([a-zA-Z0-9+]+);base64,(.+)$/);
+                        if (matches) {
+                          const ext = matches[1] === 'jpeg' ? 'jpg' : matches[1];
+                          const filename = `gift-${idx + 1}.${ext}`;
+                          fs.writeFileSync(path.resolve(giftsDir, filename), Buffer.from(matches[2], 'base64'));
+                          g.imageUrl = `/gifts/${filename}`;
+                        }
+                      }
+                    });
+                  }
                   const configPath = path.resolve(__dirname, 'src/data/savedConfig.json');
                   fs.writeFileSync(configPath, JSON.stringify(data, null, 2), 'utf-8');
                   res.writeHead(200, { 'Content-Type': 'application/json' });

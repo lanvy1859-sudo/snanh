@@ -1,11 +1,11 @@
 {
   "recipientName": "Kim Ánh",
-  "recipientNickname": "Bạn Cá (K.Á) 🎏",
+  "recipientNickname": "Bạn Kim Ánh (K.Á) 🎏",
   "birthDate": "20/09",
   "age": 17,
   "passCode": "KIMANH",
   "editorPassCode": "1512lanvy",
-  "introText": "Hôm nay ngày 20/9, xin chúc mừng ngày sinh nhật thứ 17 của bn Kim Ánh ✨",
+  "introText": "Hôm nay ngày 20/9, xin chúc mừng ngày sinh nhật thứ 17 của con vợ Kim Ánh ✨",
   "photos": [
     {
       "id": "photo-1",
@@ -29,65 +29,64 @@
   "gifts": [
     {
       "id": "gift-1",
-      "senderName": "Người bạn 1",
-      "giftName": "Món quà kỷ niệm 01",
-      "imageUrl": "",
+      "senderName": "Ngọc Yến",
+      "giftName": "Gấu bông Protein",
+      "imageUrl": "/gifts/gift-1.png",
       "message": ""
     },
     {
       "id": "gift-2",
-      "senderName": "Người bạn 2",
-      "giftName": "Món quà kỷ niệm 02",
-      "imageUrl": "",
+      "senderName": "Nguyên Phương",
+      "giftName": "Combo bút, túi bút, bình nc và standeeeee",
+      "imageUrl": "/gifts/gift-2.png",
       "message": ""
     },
     {
       "id": "gift-3",
-      "senderName": "Người bạn 3",
-      "giftName": "Món quà kỷ niệm 03",
-      "imageUrl": "",
+      "senderName": "Mỹ An",
+      "giftName": "Combo quà Usagi và Keonhooo",
+      "imageUrl": "/gifts/gift-3.png",
       "message": ""
     },
     {
       "id": "gift-4",
-      "senderName": "Người bạn 4",
-      "giftName": "Món quà kỷ niệm 04",
-      "imageUrl": "",
+      "senderName": "Khánh Hà",
+      "giftName": "Bình nước cute",
+      "imageUrl": "/gifts/gift-4.png",
       "message": ""
     },
     {
       "id": "gift-5",
-      "senderName": "Người bạn 5",
-      "giftName": "Món quà kỷ niệm 05",
-      "imageUrl": "",
+      "senderName": "Phi Phụng",
+      "giftName": "Nến thơm ",
+      "imageUrl": "/gifts/gift-5.png",
       "message": ""
     },
     {
       "id": "gift-6",
-      "senderName": "Người bạn 6",
-      "giftName": "Món quà kỷ niệm 06",
-      "imageUrl": "",
+      "senderName": "Thảo Nguyên",
+      "giftName": "Móc len dth(sorry ní t ko bt bias đó tên gì é)",
+      "imageUrl": "/gifts/gift-6.png",
       "message": ""
     },
     {
       "id": "gift-7",
       "senderName": "Lan Vy (Tui nà 💕)",
       "isLanVy": true,
-      "giftName": "Món quà đặc biệt từ Lan Vy",
-      "imageUrl": "",
+      "giftName": "Lót ly thằn lằn dí con chihuahua",
+      "imageUrl": "/gifts/gift-7.png",
       "message": "Món quà đặc biệt nhất tui dành cho bà chính là bức thư bí mật ở phong bì phía dưới... Bấm vào để đọc nha!"
     }
   ],
   "lanVyLetter": {
     "title": "Thư gửi riêng cho bạn Cá (K.Á) từ Lan Vy 💌",
-    "content": "Gửi Kim Ánh (Bạn Cá yêu dấu của tui),\n\nThế là bà đã chính thức bước sang tuổi 17 rồi đó! 20/9 này là một ngày thật đặc biệt. Cảm ơn vì bà đã luôn ở bên cạnh, luôn cùng tui sẻ chia bao nhiêu câu chuyện vui buồn từ trường lớp đến cuộc sống.\n\nNhìn bà lúc nào cũng rạng rỡ và dễ thương như những chú cá Koi bơi trong hồ xanh biếc vậy đó. Tui làm chiếc thiệp này để lưu giữ lại những kỷ niệm đẹp nhất của tuổi 17 cho bà.",
+    "content": "Nhân dịp sinh nhật, t xin chúc bà ngày càng giỏi giang, xinh đẹp, mọi chuyện đều thuận buồm xuôi gió, kiểu như thuyền gặp nước nheee\n\nHọc chung dí nhau, quậy banh chành suốt 3 năm, t cũng có nhiều kỉ niệm thăng trầm dí bà lắm á =))))))\n\nNếu nói về khoảng teamwork thì t đánh giá là ní khó hơn leader khác tí, nhma kiểu làm việc dí bà thì sẽ cảm thấy gất là yên tâm luôn. Giống mấy cái ảnh bot thanh long dí chồng ẻm á, một bờ vai rất đáng tin cậy =))))))))\n\nCòn về những vấn đề khác thì t thấy bà biết lắng nghe. Kiểu thật sự là có nhiều lúc t sẽ rất khùng, yapping rất nhiều, có thể xuyên đêm về một chủ đề xàm nào đó, nhma ní vẫn nghe nhe \nCảm ơn bà nhiều lémmmmm.\n\nH t cũng không biết chúc cụ thể ra sao, nhma t mong là m sẽ tìm được công việc mà m thích và theo đuổi nó.\n\nTại con vợ là kiểu người multiple work luôn á, gì cũng làm được, nên chắc chắn là gất thành công 💪 =))))\n\nSẵn làm cái thiệp này luôn, t muốn làm có luôn phần của nhóm mình, để sau này rảnh rảnh có gì m mở ra coi lại á.\nKỉ niệm tuổi 17 đòoooooooooooooooo 🥳\n\nHappy Birthday, Ká!!! 🎂💐\nChúc con vợ luôn bùm sáng nhaaaaaaaaaaa ✨💗",
     "closingWish": "Mong bà sẽ luôn vui vẻ và hạnh phúc 💖"
   },
-  "closingMessage1": "Mong món quà nhỏ này sẽ là hành trang nhỏ đồng hành với bn cá trong khoảng thời gian rực rỡ nìi ✨",
+  "closingMessage1": "Mong món quà nhỏ này sẽ là hành trang nhỏ đồng hành với chiếc cá biết đi trong khoảng thời gian rực rỡ nì nhaaa ✨",
   "closingMessage2": "Chúc Ánh luôn khỏe mạnh vui vẻ hạnh phúc 💖",
   "senderName": "Lan Vy",
   "themeId": "clear_azure_pond",
   "koiSpeed": "playful",
-  "bgMusicTitle": "Happy Birthday to You",
-  "bgMusicUrl": ""
+  "bgMusicTitle": "Happy Birthday to You"
 }
